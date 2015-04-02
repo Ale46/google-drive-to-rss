@@ -23,7 +23,7 @@ You can define as many sections you want
 ##Run locally
 * Clone the repository
 ```bash
-git clone http://github.com/Ale46/google-drive-to-rss.git
+git clone https://github.com/Ale46/google-drive-to-rss.git
 ```
 * Install dependecies
 ```bash
@@ -50,7 +50,7 @@ cherryd -i webApp -c dev.conf
 ##Run on Heroku
 * Clone the repository
 ```bash
-git clone http://github.com/Ale46/google-drive-to-rss.git
+git clone https://github.com/Ale46/google-drive-to-rss.git
 ```
 * Create your heroku project
 ```bash
