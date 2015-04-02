@@ -32,7 +32,7 @@ class Root:
         <title>Google Drive to Rss</title>\
         </head>\
         <body>\
-        Google Drive to Rss - <a href=\"http://github.com/Ale46/google-drive-to-rss\" />\
+        <a href=\"http://github.com/Ale46/google-drive-to-rss\">Google Drive to Rss</a>\
         </body>\
         </html>"
 
