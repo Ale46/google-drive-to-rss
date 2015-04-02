@@ -1,0 +1,5 @@
+[Database]
+hostname: localhost
+username: ale46
+password:
+database: test

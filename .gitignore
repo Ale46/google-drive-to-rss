@@ -1,0 +1,3 @@
+site.log
+env/
+*.pyc

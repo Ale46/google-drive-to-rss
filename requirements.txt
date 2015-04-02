@@ -1,0 +1,11 @@
+CherryPy==3.6.0
+dateutils==0.6.6
+feedgen==0.3.1
+lxml==3.4.2
+MarkupSafe==0.23
+psycopg2==2.6
+python-dateutil==2.4.1
+pytz==2014.10
+requests==2.5.3
+six==1.9.0
+schedule==0.3.1

@@ -1,0 +1,2 @@
+cherryd -i webApp -c dev.conf &
+python worker.py
