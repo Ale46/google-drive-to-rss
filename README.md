@@ -62,4 +62,6 @@ heroku addons:add heroku-postgresql
 ```
 * Deploy on heroku
 
-Side note: the worker and the web part will run in one dyno. It's a bad pactrice, but you will be not charged by Heroku. You can edit ```./bin/web``` to define two dynos for worker.py and the web part.
+Side note: the worker and the web part will run in one dyno. It's a bad practice, but you will be not charged by Heroku. You can edit ```./bin/web``` to define two dynos, one for worker.py and one for the web part.
+###Issues
+Google drive files (docs, sheets, etc.) will be ignored and not included in the rss feed.
